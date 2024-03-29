@@ -1,4 +1,4 @@
-# Simple-microprocessor.
+# Simple-microprocessor using Verilog.
 This project aims to create a simple microprocessor using Verilog code. The 
 microprocessor consists of three modules: an Arithmetic Logic Unit (ALU) that performs various 
 arithmetic and logic operations, a Register File that stores the data, and an Instruction Format 
